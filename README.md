@@ -1,4 +1,4 @@
-# pcódigo html
+# código html
 
 <!DOCTYPE html>
 <html lang="en">
